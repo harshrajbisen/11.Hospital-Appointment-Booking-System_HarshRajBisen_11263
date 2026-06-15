@@ -193,3 +193,23 @@ public class HospitalAppointmentBookingSystem {
         }
     }
 }
+
+// ========== Hospital Appointment Booking System ==========
+// 1. Book Appointment
+// 2. Cancel Appointment
+// 3. View Appointments
+// 4. Exit
+// Enter Choice: 1
+
+// Enter Patient ID: 101
+// Enter Patient Name: Rahul
+// Enter Age: 20
+
+// Available Doctors
+// 1. Dr. Ashish (Cardiologist)
+// 2. Dr. Rahul (Dentist)
+
+// Choose Doctor (1/2): 1
+// Enter Time Slot (10AM/11AM/12PM/2PM): 10AM
+
+// Appointment Booked Successfully.
